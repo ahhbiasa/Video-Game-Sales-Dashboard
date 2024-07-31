@@ -1,4 +1,4 @@
-An Learn By Building Project in the "Dynamic Data Profiling Dashboard with Streamlit and Google Sheet" Course by Algoritma.
+A Learn By Building Project in the "Dynamic Data Profiling Dashboard with Streamlit and Google Sheet" Course by Algoritma.
 
 This dashboard is designed to facilitate data analysis on a videogame dataset. 
 It offers a variety of charts and visualizations to help users explore and understand the data. 
